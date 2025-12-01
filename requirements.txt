@@ -1,0 +1,13 @@
+# financerag # Install manually from https://github.com/linq-rag/FinanceRAG if running baseline
+sentence-transformers
+torch
+pandas
+numpy
+tqdm
+rank_bm25
+scikit-learn
+# For potential LLM integration (optional)
+openai
+langchain
+langchain-community
+chromadb

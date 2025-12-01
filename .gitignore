@@ -1,0 +1,71 @@
+# .gitignore for Finance RAG Project
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data Files (Large datasets should not be committed)
+data/
+*.jsonl
+*.csv
+*.tsv
+*.gz
+
+# Model Checkpoints (Too large for GitHub)
+models/
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Output Files
+results/
+outputs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Hugging Face Cache
+.cache/
+transformers_cache/
+
+# Temporary files
+*.tmp
+temp/
