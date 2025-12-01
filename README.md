@@ -219,12 +219,3 @@ Please refer to `PRESENTATION_SUMMARY.md` for the complete presentation outline 
 5. Preliminary Results
 6. Future Work
 
----
-
-## 👥 Team
-- [Your Team Name]
-- [Team Members]
-
-## 📧 Contact
-- [Your Email]
-- [GitHub Repository]
